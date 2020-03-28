@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-user-form": [
+        "dist/ngx-user-form"
+      ],
+      "ngx-user-form/*": [
+        "dist/ngx-user-form/*"
+      ]
+    }
   }
 }
